@@ -1,1 +1,1 @@
-# crypto_coin
+# CCCTRL - Crypto Coin Control

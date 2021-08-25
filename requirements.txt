@@ -1,0 +1,9 @@
+typing~=3.7.4.3
+multidict~=5.1.0
+yarl~=1.6.3
+dataclassy~=0.7.2
+uvloop~=0.15.2
+aioitertools~=0.7.1
+aiohttp>=3.7.3
+orjson>=3.4.8
+setuptools>=30.1.0
